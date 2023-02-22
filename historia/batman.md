@@ -1,3 +1,4 @@
+
 Batman (conocido inicialmente como Bat-Man y en español como el Hombre Murciélago)
 es un personaje de cómic creado por los estadounidenses Bob Kane y Bill Finger,
 y propiedad de DC Comics. Apareció por primera vez en la historia titulada 
@@ -18,3 +19,4 @@ en cuyos subterráneos se encuentra la Batcueva, el centro de operaciones de Bat
 Recibe la ayuda constante de otros aliados, entre los cuales pueden mencionarse
 Robin, Batgirl (posteriormente Oráculo), Nightwing, el comisionado de la policía local, James Gordon, y su mayordomo Alfred Pennyworth. 
 Una gran variedad de villanos conforman la galería de Batman, incluido su archienemigo, el Joker.
+
